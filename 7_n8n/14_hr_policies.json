@@ -10,7 +10,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer sk"
+              "value": "Bearer "
             },
             {
               "name": "Content-Type",
